@@ -1,7 +1,6 @@
-(^|\.)example\.com$
-(\.|^)chickgoddess\.com$					
-(\.|^)fffeg81ett1s\.top$					
-(\.|^)invadedisheartentrail\.com$					
+(\.|^)chickgoddess.com
+(\.|^)fffeg81ett1s.top
+(\.|^)invadedisheartentrail.com
 (\.|^)r\.thebrowsergame\.com$					
 (\.|^)typhonsdiscal\.top$					
 *fffeg81ett1s\.top*					
